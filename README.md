@@ -1,6 +1,8 @@
 # Notes-App
 
-## node app.js add --title="t" --body="b"
+## npm install
+
+### node app.js add --title="t" --body="b"
 
 ## node app.js list
 
